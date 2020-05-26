@@ -51,3 +51,9 @@ System.out.println("Hola mundo");
 
 }
 ```
+
+# Tablas
+
+| NOMBRE | APELLIDO | DNI |
+| -- | -- | -- |
+| Victor | elputo | amo |
